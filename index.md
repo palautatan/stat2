@@ -17,5 +17,5 @@ The class will be meeting **2x** a week for lecture and **2x** a week for lab. I
 My assigned duty is to be answering your questions. Here are slideshows that I may show during section, though I may not always be able to do this.
 
 <ol>
-  <li><a href='slides/lab-1.pdf'></a>Lab 1 Slides (No material yet)</li>
+  <li><a href='slides/lab-1.pdf'>Lab 1 Slides</a> - No material on these slides</li>
 </ol>
